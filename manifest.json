@@ -2,14 +2,14 @@
   "name": "Consulting",
   "short_name": "Consulting page",
   "description": "This is a Consulting page",
-  "start_url": "./index.html",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "./pictures/my-icon.png",
-      "sizes": "512x512",
+      "src": "./pictures/my-icon-2.png",
+      "sizes": "220x220",
       "type": "image/png"
     },
     {
